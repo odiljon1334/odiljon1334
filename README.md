@@ -8,13 +8,10 @@
 <h2>Hello This is Odiljon Akramov</h2>
 <h2>안녕하세요 반갑습니다!🤝</h2>
   
+ [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/odiljon_23/)](https://www.instagram.com/odiljon_23/)
   
-[![Notion Badge](https://img.shields.io/badge/-Notion-dd2a7b?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/My-Portfolio-fcfe780ba942424aafac3b58308e6776/)]
-  (https://www.notion.so/My-Portfolio-fcfe780ba942424aafac3b58308e6776/)
- [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/odiljon_23/)](https://www.instagram.com/odiljon_23/) 
-  
+  ![Notion Badge](https://img.shields.io/badge/-Notion-dd2a7b?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/My-Portfolio-fcfe780ba942424aafac3b58308e6776/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:odil1334@.com)](mailto:odil1334@gmail.com)
-  
 <a href="https://velog.io/@odiljon_23">
      <img
           src="http://img.shields.io/badge/-Velog-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@odiljon_23"
