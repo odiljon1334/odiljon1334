@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Har kuni soat 00:00 da ishlaydi
+    - cron: "1 * * * *"  # Har kuni soat 00:00 da ishlaydi
 
   workflow_dispatch:
 
