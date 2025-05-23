@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Odiljon Akramov and I'm a Software Engineer, from Uzbekistan.</h2>
+<h2 align="left">Hi 👋! My name is Odiljon Akramov and I'm a Full Stack Web Developer, from Uzbekistan.</h2>
 
 ###
 
